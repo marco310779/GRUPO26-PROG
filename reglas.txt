@@ -1,0 +1,8 @@
+Reglas de la Ruleta:  
+- Apuesta a un número o color.  
+- Si ganas, duplicas tu apuesta.  
+
+Reglas de las Tragamonedas:  
+- Tienes dos juegos internos para elegir.  
+- Juego Interno 1: 30% de ganar, paga 2.5 veces tu apuesta.  
+- Juego Interno 2: 40% de ganar, paga 3 veces tu apuesta.   
